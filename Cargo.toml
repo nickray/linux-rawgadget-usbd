@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 usb-device = "0.2.5"
 nix = "0.17.0"
+libusb-sys = "0.2.3"
